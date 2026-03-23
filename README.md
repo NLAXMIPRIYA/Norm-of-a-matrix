@@ -67,6 +67,13 @@ print(norm_of_matrix)
 <br>
 <br>
 
+
+<img width="1868" height="762" alt="image" src="https://github.com/user-attachments/assets/d68044b7-23dd-49fd-85b1-0cb6d61e8975" />
+
+
+
+
+
 ### Infinity Norm of a Matrix
 <br>
 <br>
