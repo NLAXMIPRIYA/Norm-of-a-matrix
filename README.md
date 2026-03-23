@@ -81,7 +81,8 @@ print(norm_of_matrix)
 
 
 
-<img width="1598" height="818" alt="image" src="https://github.com/user-attachments/assets/a1c58d43-e00c-404d-825b-aa29e76740d2" />
+<img width="1880" height="691" alt="image" src="https://github.com/user-attachments/assets/77c9777d-18c9-4382-b373-48ccb060da6b" />
+
 
 
 
