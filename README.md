@@ -79,5 +79,12 @@ print(norm_of_matrix)
 <br>
 <br>
 
+
+
+<img width="1598" height="818" alt="image" src="https://github.com/user-attachments/assets/a1c58d43-e00c-404d-825b-aa29e76740d2" />
+
+
+
+
 ## Result
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
